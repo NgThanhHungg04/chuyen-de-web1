@@ -1,2 +1,6 @@
 Day la file week1
+<<<<<<< HEAD
 Thuoc branch week1 thoi nha!
+=======
+Thuoc branch week1 va main
+>>>>>>> main
